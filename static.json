@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "/*": {
+      "X-Author": "d_rdnv",
+      "Access-Control-Allow-Origin": "*"
+    }
+  }
+}
