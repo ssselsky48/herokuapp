@@ -1,7 +1,8 @@
 {
   "routes": {
     "/login/": "/login.html",
-    "/sample/": "/sample.html"
+    "/promise/": "/promise.html",
+    "/fetch/": "/fetch.html"
   },
   
   "headers": {
@@ -13,7 +14,7 @@
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain; charset=UTF-8"      
     },
-    "/sample/": {
+    "/promise/": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain"      
     }
